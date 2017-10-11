@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\softwear\myAndroid\android-project\RxJavaLearn\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9e4be518cb2c5a8b996096926561fac91d5b9217">
+        <dex dex="C:\softwear\myAndroid\android-project\RxJavaLearn\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_4341f4ae68429b18c713108ea8c62a67cf20b6b5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\softwear\myAndroid\android-project\RxJavaLearn\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\softwear\myAndroid\android-project\RxJavaLearn\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_15f1c857087347aa1e1fad2d2671ad2e8adbc81c\classes.dex" />
+    </item>
+
+</items>
