@@ -2,22 +2,175 @@
 <items version="2" >
 
     <item
-        is-multidex="true"
-        jar="C:\softwear\myAndroid\android-project\RxJavaLearn\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\Jetictors\.gradle\caches\modules-2\files-2.1\org.reactivestreams\reactive-streams\1.0.0\14b8c877d98005ba3941c9257cfe09f6ed0e0d74\reactive-streams-1.0.0.jar"
+        jumboMode="false"
         optimize="true"
         revision="26.0.1"
-        sha1="9e4be518cb2c5a8b996096926561fac91d5b9217">
-        <dex dex="C:\softwear\myAndroid\android-project\RxJavaLearn\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_4341f4ae68429b18c713108ea8c62a67cf20b6b5\classes.dex" />
+        sha1="14b8c877d98005ba3941c9257cfe09f6ed0e0d74">
+        <dex dex="C:\softwear\myAndroid\android-project\RxJavaLearn\app\build\intermediates\pre-dexed\debug\reactive-streams-1.0.0_98ddf1b341631dd194bf6089196c7a8ca5aaa645.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\softwear\myAndroid\android-project\RxJavaLearn\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\Jetictors\.gradle\caches\modules-2\files-2.1\io.reactivex.rxjava2\rxjava\2.0.1\57f850a6b317e5582f1dbaff10a9e7d7e1fcdcfb\rxjava-2.0.1.jar"
+        jumboMode="false"
         optimize="true"
         revision="26.0.1"
-        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
-        <dex dex="C:\softwear\myAndroid\android-project\RxJavaLearn\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_15f1c857087347aa1e1fad2d2671ad2e8adbc81c\classes.dex" />
+        sha1="57f850a6b317e5582f1dbaff10a9e7d7e1fcdcfb">
+        <dex dex="C:\softwear\myAndroid\android-project\RxJavaLearn\app\build\intermediates\pre-dexed\debug\rxjava-2.0.1_b7c58d8d7dd21c980cc480804bfa2674f0ecfd0f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jetictors\.android\build-cache\133ad804fcacd8b2e95c9786f4148c6da0b63a31\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="C:\softwear\myAndroid\android-project\RxJavaLearn\app\build\intermediates\pre-dexed\debug\classes_2d9f78d945fa7bed54b4e4c8ce5a110f0b0f5f53.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jetictors\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="C:\softwear\myAndroid\android-project\RxJavaLearn\app\build\intermediates\pre-dexed\debug\glide-3.7.0_4cdd07a2ea9387afb1d8bda3d7e03b4915ff93f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jetictors\.android\build-cache\b9ac2d291a8967b8ac2fce60568f7d83f621d066\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\softwear\myAndroid\android-project\RxJavaLearn\app\build\intermediates\pre-dexed\debug\classes_6672f755f24d4c461b85ef473ea51b6655d914b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jetictors\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.4.0\ea392375cf9ff59234a82e7928a204215ccc98cd\butterknife-annotations-8.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ea392375cf9ff59234a82e7928a204215ccc98cd">
+        <dex dex="C:\softwear\myAndroid\android-project\RxJavaLearn\app\build\intermediates\pre-dexed\debug\butterknife-annotations-8.4.0_1bc3a8c19bb9b330b20640ba965a44500fcbf7a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jetictors\.android\build-cache\3e8bf0454f809ce41c303a7493e731fcf4e85b13\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\softwear\myAndroid\android-project\RxJavaLearn\app\build\intermediates\pre-dexed\debug\classes_11c03c238403592e6da6cc0f6cef8879d369f7e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jetictors\.android\build-cache\67131486b881b74fd9928244e3930a04856edd28\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a07818a1ecabdb149998823429cce555af4b9cba">
+        <dex dex="C:\softwear\myAndroid\android-project\RxJavaLearn\app\build\intermediates\pre-dexed\debug\classes_bcd2118dc4e834b2a528b049efa743105b3866af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jetictors\.android\build-cache\a752d93b15e3c9d67cfed342f21f61bccf182faf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\softwear\myAndroid\android-project\RxJavaLearn\app\build\intermediates\pre-dexed\debug\classes_547b1dc2be550c0c1a116101e8f6e86b986d38ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jetictors\.android\build-cache\4f156fb8c6ad82ca8dc3f69b01d58cb2495c3d66\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\softwear\myAndroid\android-project\RxJavaLearn\app\build\intermediates\pre-dexed\debug\classes_566460f229c563d6e4a3f1923c3f88e86df748fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jetictors\.android\build-cache\1e8e701484ee75f94befbc5002438663749a2d5c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\softwear\myAndroid\android-project\RxJavaLearn\app\build\intermediates\pre-dexed\debug\classes_1caf3bde566dd7589e8af0fc74f9743f1f5346da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jetictors\.android\build-cache\ba3f5e1c99901668606e9d54b4d94906b85ee5da\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="C:\softwear\myAndroid\android-project\RxJavaLearn\app\build\intermediates\pre-dexed\debug\classes_05c55d0a2074775a753b123dcc011bdb82228ec3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jetictors\.android\build-cache\664a60f13604dfa0b173458731b25418a02f3cfe\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\softwear\myAndroid\android-project\RxJavaLearn\app\build\intermediates\pre-dexed\debug\classes_497e5be8a3456da4215b8bc38792723d6db6e7e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jetictors\.android\build-cache\ab54512f9db8ad53fac40d104d486ca370e29ae4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="C:\softwear\myAndroid\android-project\RxJavaLearn\app\build\intermediates\pre-dexed\debug\classes_32e326d33f46b20e52e92ad4de4412ef79593c31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jetictors\.android\build-cache\167dd5998901c93d2cd343d65830f7da7e88eb06\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4119ea97a7191ff9b8f33b534ea220448f62f491">
+        <dex dex="C:\softwear\myAndroid\android-project\RxJavaLearn\app\build\intermediates\pre-dexed\debug\classes_8392ee78a5279a14f896d52f026705d7ea1c6d04.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jetictors\.android\build-cache\cccee64a26917db4862e05eaedd11f409df2fc4a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="C:\softwear\myAndroid\android-project\RxJavaLearn\app\build\intermediates\pre-dexed\debug\classes_41a18072ebf17e6c007088a4443183f2a8689443.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\softwear\myAndroid\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\softwear\myAndroid\android-project\RxJavaLearn\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_02089c7ba05fb6ca21cdf51073c1e0019cdeb4a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jetictors\.android\build-cache\5551a0dec41d7e7071f6a7ad1e0bd2b563fa52cf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\softwear\myAndroid\android-project\RxJavaLearn\app\build\intermediates\pre-dexed\debug\classes_d3eee54afa5ce2ac5c8870d8b4426d0effe6b31a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\softwear\myAndroid\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\softwear\myAndroid\android-project\RxJavaLearn\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_829ab11925b27d7e8efe4e6360cc314e5b67d389.jar" />
     </item>
 
 </items>
