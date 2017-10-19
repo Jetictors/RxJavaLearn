@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">RxJavaLearn</string>
+
+    <!-- layout_menu -->
+    <string name="menu_tv_name">Jetictors</string>
+    <string name="menu_tv_info">做一个乐于分享的程序猿</string>
+
+    <string name="menu_item_1">ReactiveX</string>
+    <string name="menu_item_2">RxJava</string>
+    <string name="menu_item_3">RxBus</string>
+    <string name="menu_item_4">RxBinding</string>
+    <string name="menu_item_5">RxPermissions</string>
+    <string name="menu_item_6">RxRxLifecycle</string>
+    <string name="menu_item_7">项目介绍</string>
+    <string name="menu_item_8">关于我</string>
+
+
+
 </resources>

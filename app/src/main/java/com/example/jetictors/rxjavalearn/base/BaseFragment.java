@@ -7,6 +7,8 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
+import butterknife.ButterKnife;
+
 /**
  * 描述：基类Fragment
  * 时间：2017/10/12  16:50
@@ -21,6 +23,7 @@ public abstract class BaseFragment extends Fragment{
         View view = null;
         if (getLayoutId() != 0){
             view = inflater.inflate(getLayoutId(),null);
+            ButterKnife.bind(view);
         }
         return view;
     }

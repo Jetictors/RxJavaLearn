@@ -5,6 +5,8 @@ import android.support.annotation.Nullable;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 
+import butterknife.ButterKnife;
+
 /**
  * 描述：基类Activity
  * 时间：2017/10/12  16:20
@@ -18,13 +20,10 @@ public abstract class BaseActivity extends AppCompatActivity {
 
         if (getLayoutId() != 0){
             setContentView(getLayoutId());
+            ButterKnife.bind(this);
             initView();
             initData();
         }
-    }
-
-    protected <T extends View> T $(int resId) {
-        return (T) super.findViewById(resId);
     }
 
     public abstract int getLayoutId();
@@ -32,4 +31,9 @@ public abstract class BaseActivity extends AppCompatActivity {
     public abstract void initView();
 
     public abstract void initData();
+
+    @Override
+    protected void onDestroy() {
+        super.onDestroy();
+    }
 }

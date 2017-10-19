@@ -48,6 +48,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="C:\Users\Jetictors\.android\build-cache\3e8bf0454f809ce41c303a7493e731fcf4e85b13\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\softwear\myAndroid\android-project\RxJavaLearn\app\build\intermediates\pre-dexed\debug\classes_11c03c238403592e6da6cc0f6cef8879d369f7e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="C:\Users\Jetictors\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.4.0\ea392375cf9ff59234a82e7928a204215ccc98cd\butterknife-annotations-8.4.0.jar"
         jumboMode="false"
         optimize="true"
@@ -56,13 +65,22 @@
         <dex dex="C:\softwear\myAndroid\android-project\RxJavaLearn\app\build\intermediates\pre-dexed\debug\butterknife-annotations-8.4.0_1bc3a8c19bb9b330b20640ba965a44500fcbf7a9.jar" />
     </item>
     <item
+        is-multidex="true"
+        jar="C:\Users\Jetictors\.android\build-cache\fc07c6b20ab6ec0936cf74fe606f0def5f8bf2ed\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6e401f475d1307904e7bc1ae0c49625ca8447ece">
+        <dex dex="C:\softwear\myAndroid\android-project\RxJavaLearn\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e84194bad35d9ca9a13cdf44eaa6ce1d626ed8e5\classes.dex" />
+    </item>
+    <item
         is-multidex="false"
-        jar="C:\Users\Jetictors\.android\build-cache\3e8bf0454f809ce41c303a7493e731fcf4e85b13\output\jars\classes.jar"
+        jar="C:\Users\Jetictors\.android\build-cache\fc07c6b20ab6ec0936cf74fe606f0def5f8bf2ed\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.1"
-        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
-        <dex dex="C:\softwear\myAndroid\android-project\RxJavaLearn\app\build\intermediates\pre-dexed\debug\classes_11c03c238403592e6da6cc0f6cef8879d369f7e7.jar" />
+        sha1="6e401f475d1307904e7bc1ae0c49625ca8447ece">
+        <dex dex="C:\softwear\myAndroid\android-project\RxJavaLearn\app\build\intermediates\pre-dexed\debug\classes_e84194bad35d9ca9a13cdf44eaa6ce1d626ed8e5.jar" />
     </item>
     <item
         is-multidex="false"
@@ -84,6 +102,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="C:\Users\Jetictors\.android\build-cache\1e8e701484ee75f94befbc5002438663749a2d5c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\softwear\myAndroid\android-project\RxJavaLearn\app\build\intermediates\pre-dexed\debug\classes_1caf3bde566dd7589e8af0fc74f9743f1f5346da.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="C:\Users\Jetictors\.android\build-cache\4f156fb8c6ad82ca8dc3f69b01d58cb2495c3d66\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
@@ -93,12 +120,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\Jetictors\.android\build-cache\1e8e701484ee75f94befbc5002438663749a2d5c\output\jars\classes.jar"
+        jar="C:\Users\Jetictors\.android\build-cache\664a60f13604dfa0b173458731b25418a02f3cfe\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.1"
-        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
-        <dex dex="C:\softwear\myAndroid\android-project\RxJavaLearn\app\build\intermediates\pre-dexed\debug\classes_1caf3bde566dd7589e8af0fc74f9743f1f5346da.jar" />
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\softwear\myAndroid\android-project\RxJavaLearn\app\build\intermediates\pre-dexed\debug\classes_497e5be8a3456da4215b8bc38792723d6db6e7e1.jar" />
     </item>
     <item
         is-multidex="false"
@@ -110,13 +137,13 @@
         <dex dex="C:\softwear\myAndroid\android-project\RxJavaLearn\app\build\intermediates\pre-dexed\debug\classes_05c55d0a2074775a753b123dcc011bdb82228ec3.jar" />
     </item>
     <item
-        is-multidex="false"
-        jar="C:\Users\Jetictors\.android\build-cache\664a60f13604dfa0b173458731b25418a02f3cfe\output\jars\classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="C:\softwear\myAndroid\android-project\RxJavaLearn\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
         optimize="true"
         revision="26.0.1"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="C:\softwear\myAndroid\android-project\RxJavaLearn\app\build\intermediates\pre-dexed\debug\classes_497e5be8a3456da4215b8bc38792723d6db6e7e1.jar" />
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\softwear\myAndroid\android-project\RxJavaLearn\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_15f1c857087347aa1e1fad2d2671ad2e8adbc81c\classes.dex" />
     </item>
     <item
         is-multidex="false"
@@ -144,6 +171,15 @@
         revision="26.0.1"
         sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
         <dex dex="C:\softwear\myAndroid\android-project\RxJavaLearn\app\build\intermediates\pre-dexed\debug\classes_41a18072ebf17e6c007088a4443183f2a8689443.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\softwear\myAndroid\android-project\RxJavaLearn\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="568ca859694b3e36fbfc5e09fdabcbd5028c41ee">
+        <dex dex="C:\softwear\myAndroid\android-project\RxJavaLearn\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_4341f4ae68429b18c713108ea8c62a67cf20b6b5\classes.dex" />
     </item>
     <item
         is-multidex="false"

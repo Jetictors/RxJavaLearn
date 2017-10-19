@@ -8,7 +8,7 @@
     <include layout="@layout/layout_main"/>
 
     <LinearLayout
-        android:layout_width="300dp"
+        android:layout_width="264dp"
         android:layout_height="match_parent"
         android:layout_gravity="left"
         android:background="#00ff00"
