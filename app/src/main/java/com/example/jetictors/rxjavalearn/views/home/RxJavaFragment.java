@@ -1,4 +1,4 @@
-package com.example.jetictors.rxjavalearn.home.fragment;
+package com.example.jetictors.rxjavalearn.views.home;
 
 import android.view.View;
 
@@ -6,25 +6,25 @@ import com.example.jetictors.rxjavalearn.R;
 import com.example.jetictors.rxjavalearn.base.BaseFragment;
 
 /**
- * 描述：RxBus页面
+ * 描述：RxJava页面
  * 时间：2017/10/19  17:26
  * 作者：Jetictors
  * 版本  1.0.1
  */
-public class RxBusFragment extends BaseFragment{
+public class RxJavaFragment extends BaseFragment{
 
-    private static RxBusFragment sRxBusFragment;
+    private static RxJavaFragment sRxJavaFragment;
 
-    public static RxBusFragment getInstance(){
-        if (null == sRxBusFragment){
-            synchronized (RxBusFragment.class){
-                if (null == sRxBusFragment){
-                    sRxBusFragment = new RxBusFragment();
+    public static RxJavaFragment getInstance(){
+        if (null == sRxJavaFragment){
+            synchronized (RxJavaFragment.class){
+                if (null == sRxJavaFragment){
+                    sRxJavaFragment = new RxJavaFragment();
                 }
             }
         }
 
-        return sRxBusFragment;
+        return sRxJavaFragment;
     }
 
     @Override

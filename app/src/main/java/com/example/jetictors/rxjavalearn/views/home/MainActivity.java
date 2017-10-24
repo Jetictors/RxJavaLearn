@@ -1,4 +1,4 @@
-package com.example.jetictors.rxjavalearn.home.activity;
+package com.example.jetictors.rxjavalearn.views.home;
 
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
@@ -16,14 +16,6 @@ import com.chad.library.adapter.base.BaseQuickAdapter;
 import com.chad.library.adapter.base.BaseViewHolder;
 import com.example.jetictors.rxjavalearn.R;
 import com.example.jetictors.rxjavalearn.base.BaseActivity;
-import com.example.jetictors.rxjavalearn.home.fragment.AboutUsFragment;
-import com.example.jetictors.rxjavalearn.home.fragment.ProjectIllustrateFragment;
-import com.example.jetictors.rxjavalearn.home.fragment.ReactiveXFragment;
-import com.example.jetictors.rxjavalearn.home.fragment.RxBindingFragment;
-import com.example.jetictors.rxjavalearn.home.fragment.RxBusFragment;
-import com.example.jetictors.rxjavalearn.home.fragment.RxJavaFragment;
-import com.example.jetictors.rxjavalearn.home.fragment.RxLifecycleFragment;
-import com.example.jetictors.rxjavalearn.home.fragment.RxPremissionsFragment;
 import com.example.jetictors.rxjavalearn.widgets.CircleTransform;
 import com.example.jetictors.rxjavalearn.widgets.CommonItemDecoration;
 

@@ -1,4 +1,4 @@
-package com.example.jetictors.rxjavalearn.home.fragment;
+package com.example.jetictors.rxjavalearn.views.home;
 
 import android.view.View;
 
